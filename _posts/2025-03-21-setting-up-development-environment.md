@@ -13,7 +13,7 @@ date: 2025-03-21 22:03 +0800
 
 The project will require two clients for two different user roles:
 
-- [**User client**](#user-client): Where the main functionality of the project is implemented.
+- **User client**: Where the main functionality of the project is implemented.
 
 - **Admin client**:  Will handle *account suspensions*, *moderate messages*, *contact users*, *appoint other users as moderators*, *view system data*, and others that have not come to mind as of this writing.
 
