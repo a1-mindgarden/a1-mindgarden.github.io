@@ -7,7 +7,7 @@ tags:
 - setup
 description: Walking through how we set up Kotlin Multiplatform with Android Studio
   to get started with the development.
-date: 2025-04-01 15:23 +0800
+date: 2025-03-21 22:03 +0800
 ---
 ## Project specifications
 
