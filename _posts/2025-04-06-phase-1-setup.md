@@ -13,9 +13,6 @@ tags:
 - nodejs
 description: This phase establishes the core Firebase project and prepares the local development environments necessary for building MindGarden.
 ---
-## Overview
-
-This phase establishes the core Firebase project and prepares the local development environments necessary for building MindGarden.
 
 ## Target Platforms & Technologies
 
